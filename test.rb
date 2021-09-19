@@ -3,3 +3,4 @@ def random_method(par)
 end
 
 random_method("arg")
+random_method("arg2")
