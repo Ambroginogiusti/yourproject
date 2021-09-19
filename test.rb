@@ -4,3 +4,4 @@ end
 
 random_method("arg")
 random_method("arg2")
+random_method("arg2")
